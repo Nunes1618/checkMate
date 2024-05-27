@@ -16,7 +16,7 @@ Este projeto tem como utilizar uma aplicação de lista de tarefas, onde é poss
 
 ##
 ### Teste você mesmo!
-- Link do deploy:
+- https://check-mate-five.vercel.app/
 
 ##
 ### Contato:
